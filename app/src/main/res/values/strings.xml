@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">Quiz</string>
+
+    <string name="start_quiz">Start Quiz</string>
+    <string name="submit">SUBMIT</string>
+    <string name="your_results">Your results:</string>
+    <string name="total_questions">Total number of questions:</string>
+    <string name="number_questions">2</string>
+    <string name="correct">Correct:</string>
+    <string name="incorrect">Incorrect:</string>
+    <string name="question">Question</string>
+    <string name="question1">Who won the 2014 World Cup?</string>
+    <string name="question2">Who won the 2016 LOL Worlds?</string>
+    <string name="answer11">Argentina</string>
+    <string name="answer12">Brazil</string>
+    <string name="answer13">Spain</string>
+    <string name="answer14">Germany</string>
+    <string name="answer21">SKT</string>
+    <string name="answer22">Fnatic</string>
+    <string name="answer23">EDG</string>
+    <string name="answer24">Origen</string>
+    <string name="try_again">Try again</string>
+    <string name="no_radio_buttons">No select any radio button</string>
 </resources>
